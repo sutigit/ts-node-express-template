@@ -47,8 +47,8 @@ Runs the compiled JavaScript code in the `dist` directory.
 
 ### 1. **Clone repository**:
 ```bash
-git clone <repository-url>
-cd ts-node-express
+git clone https://github.com/sutigit/ts-node-express-template.git
+cd ts-node-express-template
 ```
 
 ### 2. **Install dependencies**:
